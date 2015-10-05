@@ -1,6 +1,8 @@
 Project Boiler Plate for UWyo COSC 4950/5
 =========================================
 
+[![Join the chat at https://gitter.im/tglade/Brain-scanner-device](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tglade/Brain-scanner-device?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is nothing more than a directory structure to use for starting a new project.  
 It contains the following folders:
 
